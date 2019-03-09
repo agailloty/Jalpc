@@ -3,23 +3,23 @@
     "title": "Axel-Cleris"
   },
   "nav":{
-    "home": "Home",
-    "about_me": "About",
-    "skills": "Skills",
-    "projects": "Projects",
-    "career": "Career",
+    "home": "A propos de moi",
+    "about_me": "Sur moi",
+    "skills": "Compétences",
+    "projects": "Projets",
+    "career": "Expériences",
     "blog": "Blog",
-    "link": "Link"
+    "link": "Liens"
   },
   "about_me":{
-    "about_me": "About Me",
-    "des": "I hold a Bachelor in Economics. My domains of interest are Econometrics and Data Science. I love realizing Data Science and Analytics projects with R and Python, if I'm not in gym then I'm probably learning something new on Coursera and edX."
+    "about_me": "A propos de moi",
+    "des": "Après une licence en Economie et Gestion à l'Université d'Angers je suis fortement intéressé par un Master en Econométrie et/ou Data Science. J'aime l'analyse statistique et la programmation en R et Python. Dans mon temps libre je réalise des projets d'analyse de données et d'économétrie. "
   },
   "skills":{
-    "my_skills": "My Skills"
+    "my_skills": "Compétences"
   },
   "projects":{
-    "my_projects": "My Projects",
+    "my_projects": "Mes projets",
     "jalpc": "This project is my project. I use javescript to get repo's information all my repos have only one request.",
     "cpython": "This project is other's project. I use another request to get repo's information.",
     "familycode": "This is another project."
@@ -44,10 +44,10 @@
     "college_job": "Student"
   },
   "blog":{
-    "my_blog": "My Blog"
+    "my_blog": "Mon Blog"
   },
   "link":{
-    "link": "Link",
+    "link": "Liens",
     "view": "views"
   }
 
