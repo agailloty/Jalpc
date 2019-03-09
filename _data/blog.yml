@@ -1,4 +1,4 @@
-# blog page sections
+﻿# blog page sections
 - name: Blog
   href: /blog/
 
@@ -6,7 +6,7 @@
 - name: Python
   href: /python/
 
-- name: Econom�trie
+- name: Econométrie
   href: /linux/
 
 - name: HTML
