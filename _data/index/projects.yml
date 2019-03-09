@@ -24,5 +24,5 @@
 - name: Principal Component Analysis
   i18n: R
   url: https://www.kaggle.com/agailloty/comprehensive-pca-with-r-using-factominer
-  img: /static/assets/img/landing/pca.jpg
+  img: /static/assets/img/landing/pca1.png
   desc: This is another project.
