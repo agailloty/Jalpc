@@ -1,6 +1,23 @@
-# skills section data
+﻿- name: C#
+  percentage: 80
 
-label: Ability
-id : cs
-aspects: Data Analysis, Visualization, HTML5, R, Machine Learing, Python, Econometrics
-percentage: 88, 80, 65, 80, 50, 75, 90
+- name: Java
+  percentage: 60
+
+- name: Erlang
+  percentage: 20
+
+- name: ASP.NET/REST
+  percentage: 70
+
+- name: DevOps
+  percentage: 85
+
+- name: TCP, UDP, DNS
+  percentage: 70
+
+- name: NoSQL
+  percentage: 50
+
+- name: Python
+  percentage: 50
