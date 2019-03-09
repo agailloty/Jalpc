@@ -14,7 +14,7 @@ author:  # agailloty.
   name: GitHub  # Be used at blog posts' author.
   first_name: Axel-Cleris  # Be used at index page about me section.
   last_name: Gailloty  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/cleris.jpg  # upload your avatar at directory and edit it.
   github_username: agailloty  # Leave blank if you don't have now
   linkedin_id: cgailloty # Leave blank if you don't have now
   facebook_username:   # Leave blank if you don't have now
