@@ -1,22 +1,22 @@
-{
+ï»¿{
   "website":{
     "title": "Axel-Cleris"
   },
   "nav":{
     "home": "A propos de moi",
     "about_me": "Sur moi",
-    "skills": "Compétences",
+    "skills": "CompÃ©tences",
     "projects": "Projets",
-    "career": "Expériences",
+    "career": "ExpÃ©riences",
     "blog": "Blog",
     "link": "Liens"
   },
   "about_me":{
     "about_me": "A propos de moi",
-    "des": "Après une licence en Economie et Gestion à l'Université d'Angers je suis fortement intéressé par un Master en Econométrie et/ou Data Science. J'aime l'analyse statistique et la programmation en R et Python. Dans mon temps libre je réalise des projets d'analyse de données et d'économétrie. "
+    "des": "AprÃ¨s une licence en Economie et Gestion Ã  l'UniversitÃ© d'Angers je suis fortement intÃ©ressÃ© par un Master en EconomÃ©trie et/ou Data Science. J'aime l'analyse statistique et la programmation en R et Python. Dans mon temps libre je rÃ©alise des projets d'analyse de donnÃ©es et d'Ã©conomÃ©trie. "
   },
   "skills":{
-    "my_skills": "Compétences"
+    "my_skills": "CompÃ©tences"
   },
   "projects":{
     "my_projects": "Mes projets",
@@ -25,7 +25,7 @@
     "familycode": "This is another project."
   },
   "career":{
-    "my_career": "My Career",
+    "my_career": "Mon parcours",
     "nextcode": "Nextcode",
     "nextcode_des": "Now I am in Nextcode and develop website with Python code for genetic analysis.",
     "nextcode_date": "Apr. 2016",
