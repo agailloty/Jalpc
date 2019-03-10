@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: SAS, Data Analysis, Visualization, R, Machine Learing, Python, Econometrics
-percentage: 48, 88, 80, 80, 50, 75, 90
+aspects: R, Data Analysis, Visualization, SAS, Machine Learing, Python, Econometrics
+percentage: 90, 88, 80, 50, 50, 75, 90
