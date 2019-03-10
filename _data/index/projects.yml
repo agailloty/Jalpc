@@ -1,12 +1,6 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
 
 - name: Python
   i18n: cpython
@@ -15,14 +9,9 @@
   img: /static/assets/img/landing/python.png
   desc: This project is other's project. I use another request to get repo's information.
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
-
 - name: Principal Component Analysis
   i18n: R
   url: https://www.kaggle.com/agailloty/comprehensive-pca-with-r-using-factominer
   img: /static/assets/img/landing/pca1.png
-  desc: This is another project.
+  desc: In this project I take advantage of the FactoMineR R package to realize a complete Principal Component Analysis (PCA) on a dataset containing economic indicators of all countries in R. The project ends with a cluster analysis
+

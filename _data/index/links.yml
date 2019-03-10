@@ -1,9 +1,8 @@
 # links section data
-- last_name: Name 1
+- last_name: Kaggle
   first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+  desc: Kaggle competition
+  website: https://kaggle.com/agailloty
 
 - last_name: Donate
   first_name: Jalpc
@@ -11,8 +10,7 @@
   website: http://www.jarrekk.com/donate/
   email: me@jarrekk.com
 
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
-  email: coo@google.com
+- last_name: Instagram
+  first_name: 
+  desc: Follow my Instagram account
+  website: https://instagram.com/axel_cleris
