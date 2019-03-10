@@ -7,10 +7,10 @@
     detail: I enrolled this amazing Organization since August 2018. My job is to get in touch with Exchange Participants and organize their trip in a foreign country where they will volunteer in projects that meet the United Nations goals (SDG).
     i18n: aiesec_des
   date:
-    detail: Aug. 2018
+    detail: Aug. 2018 - Today
     i18n: aiesec_date
   job:
-    detail: CTO
+    detail: Customer Experience for Youth
     i18n: aiesec_job
   icon: fa-plus-square
 
