@@ -2,13 +2,13 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name: 
     detail: AIESEC
-    i18n: aiesec
+    i18n: aiesec_des
   desc:
     detail: I enrolled this amazing Organization since August 2018. My job is to get in touch with Exchange Participants and organize their trip in a foreign country where they will volunteer in projects that meet the United Nations goals (SDG).
-    i18n: aiesec_desc
+    i18n: aiesec_date
   date:
     detail: Aug. 2018
-    i18n: aiesec_date
+    i18n: aiesec_job
   job:
     detail: CTO
     i18n: company_a_job
