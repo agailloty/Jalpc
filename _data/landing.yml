@@ -36,3 +36,8 @@
   name: Links
   tpl: links.html
   css: contact
+
+- id: repos
+  i18n: nav.repos
+  name: Repos
+  tpl: blog
