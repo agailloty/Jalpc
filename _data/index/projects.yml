@@ -3,7 +3,7 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
 - name: My projects with Jupyter Notebook
-  i18n: 
+  i18n: jup
   gh_user: agailloty
   repo: projets
   img: /static/assets/img/landing/find-data.png
@@ -16,7 +16,7 @@
   desc: In this project I take advantage of the FactoMineR R package to realize a complete Principal Component Analysis (PCA) on a dataset containing economic indicators of all countries in R. The project ends with a cluster analysis
 
 - name: European Women fertility (published in French)
-  i18n: R
+  i18n: R_fert
   url: https://agailloty.github.io/blog/r/Analyse-en-composante-principale-ACP
   img: /static/assets/img/landing/ind_map.png
   desc: An analysis of women fertility in 39 european countries. 

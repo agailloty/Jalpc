@@ -21,8 +21,8 @@
   "projects":{
     "my_projects": "My Projects",
     "R": " In this project I take advantage of the FactoMineR R package to realize a complete Principal Component Analysis (PCA) on a dataset containing economic indicators of all countries in R. The project ends with a cluster analysis",
-    "cpython": "This project is other's project. I use another request to get repo's information.",
-    "familycode": "This is another project."
+    "R_fert": "An analysis of women fertility in 39 european countries. ",
+    "jup": "This is where I post all the code and notebooks of my current projects."
   },
   "career":{
     "my_career": "My Career",

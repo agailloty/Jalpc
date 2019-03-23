@@ -21,8 +21,8 @@
   "projects":{
     "my_projects": "Mes projets",
     "R": "Dans ce projet j'ai réalisé une Analyse en Composante Principale (ACP) avec le package R FactoMiner sur une base de donnée regroupant tous les pays du mail avec en colonnes des indicateurs économiques. Cette étude a permi de faire une analyse de cluster.",
-    "cpython": "This project is other's project. I use another request to get repo's information.",
-    "familycode": "This is another project."
+    "R_fert": "Il s'agit d'une analyse de données qui porte sur la fertilité des femmes de 39 pays européens en fonction de leur âge.",
+    "jup": "C'est ici que je dépose tous les codes et les notebook Jupyter de mes projets"
   },
   "career":{
     "my_career": "Mon parcours",
@@ -30,6 +30,12 @@
     "aiesec_des": "J'ai rejoint cette association en Août 2018. Je suis chargé de contacter les partenaires d'échanges (Exchange Participants) et les suivre tout au long des missions qu'ils iront réaliser dans un pays étrangers dans le cadre des plans du développement des Nations Unies.",
     "aiesec_date": "Août 2018 - Aujourd'hui",
     "aiesec_job": "Customer Experience for Youth",
+
+ "aescat": "AESCAT",
+    "aiesec_des": "J'étais l'un des pionniers qui ont créé cette association dont le but est de fournir aux citoyens centrafricains résidant en Tunisie des facilités en termes de logement et de procédures administratives. J'ai été élu premier trésorier général. Mon rôle consistait à gérer au nom de l'organisation toutes les questions relatives aux finances et à la comptabilité.",
+    "aescat_date": "Déc 2013 - Mars 2015",
+    "aescat_job": "Trésorier Général",
+
     "netease": "Netease Game",
     "netease_des": "In Netease game, I learned game service system and use Python code for ops.",
     "netease_date": "Jun. 2015",
