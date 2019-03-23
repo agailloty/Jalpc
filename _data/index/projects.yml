@@ -2,12 +2,12 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: My projects with Jupyter Notebook
+  i18n: 
+  gh_user: agailloty
+  repo: projets
+  img: /static/assets/img/landing/find-data.png
+  desc: This is where I post all the code and notebooks of my current projects.
 
 - name: Principal Component Analysis
   i18n: R
@@ -15,3 +15,8 @@
   img: /static/assets/img/landing/pca1.png
   desc: In this project I take advantage of the FactoMineR R package to realize a complete Principal Component Analysis (PCA) on a dataset containing economic indicators of all countries in R. The project ends with a cluster analysis
 
+- name: European Women fertility (published in French)
+  i18n: R
+  url: https://agailloty.github.io/blog/r/Analyse-en-composante-principale-ACP
+  img: /static/assets/img/landing/ind_map.png
+  desc: An analysis of women fertility in 39 european countries. 
