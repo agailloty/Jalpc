@@ -22,7 +22,7 @@
     i18n: aescat_desc
   date:
     detail: Dec. 2013 - March 2015
-    i18n: company_b_date
+    i18n: aescat_date
   job:
     detail: General Treasurer
     i18n: company_b_job
