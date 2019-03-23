@@ -19,7 +19,7 @@
     i18n: aescat
   desc:
     detail: I was one of the Pioneers who create this association whose aim is to provide to Central African Citizens living in Tunisia facilities in terms of accomodations and administrative procedures. I was elected as the first general treasurer. My role consited to manage in the name of the organization all issues related to finance and accounting.
-    i18n: company_b_desc
+    i18n: aescat_desc
   date:
     detail: Dec. 2013 - March 2015
     i18n: company_b_date
