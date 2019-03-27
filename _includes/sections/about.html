@@ -42,6 +42,9 @@
                     {% if site.author.cv %}
                     <li><a href="{{ site.author.cv }}" target="blank"><i class="fa fa-file-pdf-o"></i></a></li>
                     {% endif %}
+		    {% if site.author.kaggle_username %}
+                    <li><a href="https://kaggle.com/{{ site.author.github_username }}" target="blank"><i class="fa fa-github"></i></a></li>
+                    {% endif %}
                 </ul>
             </div>
         </div>
