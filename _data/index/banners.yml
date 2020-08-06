@@ -1,9 +1,0 @@
-# carousel banners section
-# Add items for each banner image in the carousel
-#
-# Images are expected to be located in `static/assets/img/`.
-- src: landing/desk.jpg
-  title: desk
-
-- src: landing/mini_cover.jpg
-  title: cover
