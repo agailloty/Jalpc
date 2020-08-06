@@ -5,52 +5,69 @@
     <title>Gailloty's Hub</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <style>
-        .allContents {
-            text-align: center;
-        }
 
         .card {
             width: 30rem;
-            margin: 0 auto; /* Added */
+            margin: 15px auto; /* Added */
             float: none; /* Added */
             margin-bottom: 10px; /* Added */
         }
 
+        .card:hover {
+          box-shadow: 0 0 11px rgba(4, 0, 255, 0.24); 
+        }
+
+        .intro {
+          display:block;
+          align-content: center;
+        }
+
+        .intro:hover {
+          text-shadow: 0 0 11px rgba(4, 0, 255, 0.24); 
+        }
 
     </style>
 </head>
   <body>
-    <div class="allContents">
-      <h1>Thank you for visiting this page. </h1>
-      <p>I designed this page as an alternative to Linktree so I can put all my links on a single page.</p>
-      <div class="allCards">
-        <div class="card">
-            <img src="images/pixabay.PNG" class="card-img-top" alt="...">
-            <div class="card-body">
-              <h5 class="card-title">My Pixabay profile</h5>
-              <p class="card-text">I like to share some of the photographs I shoot with my Nikon D750. You can visit my Pixaby profile !</p>
-              <a href="https://pixabay.com/fr/users/mrclerisaxel-5854456/" class="btn btn-primary">Go to site</a>
-            </div>
-          </div>
-
+    <div class="container">
+      <div class="allContents">
+        <div class="intro">
+          <h1>Thank you for visiting this page. </h1>
+          <p>Howdy, I’m Axel-Cleris . I’m a student living in France. 
+            I am a fan of technology, programming, and web development. 
+            I’m also interested in photography and reading. 
+            On this page you will find various links to reach to me !</p>
+        </div>
+        <div class="allCards">
           <div class="card">
-            <img src="images/linkedIn.PNG" class="card-img-top" alt="...">
-            <div class="card-body">
-              <h5 class="card-title">LinkedIn</h5>
-              <p class="card-text">Let's connect on LinkedIn ! </p>
-              <a href="https://www.linkedin.com/in/cgailloty/" class="btn btn-primary">Go to site</a>
+              <img src="images/pixabay.PNG" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">My Pixabay profile</h5>
+                <p class="card-text">I like to share some of the photographs I shoot with my Nikon D750. You can visit my Pixaby profile !</p>
+                <a href="https://pixabay.com/fr/users/mrclerisaxel-5854456/" class="btn btn-primary">Go to site</a>
+              </div>
             </div>
-          </div>
-
-          <div class="card">
-            <img src="images/personal-website.PNG" class="card-img-top" alt="...">
-            <div class="card-body">
-              <h5 class="card-title">Personal website</h5>
-              <p class="card-text">Here you will find my works and the projects on which I am working on now. </p>
-              <a href="https://agailloty.rbind.io" class="btn btn-primary">Go to site</a>
+  
+            <div class="card">
+              <img src="images/linkedIn.PNG" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">LinkedIn</h5>
+                <p class="card-text">Let's connect on LinkedIn ! </p>
+                <a href="https://www.linkedin.com/in/cgailloty/" class="btn btn-primary">Go to site</a>
+              </div>
             </div>
-          </div>
+  
+            <div class="card">
+              <img src="images/personal-website.PNG" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Personal website</h5>
+                <p class="card-text">Here you will find my works and the projects on which I am working on now. </p>
+                <a href="https://agailloty.rbind.io" class="btn btn-primary">Go to site</a>
+              </div>
+            </div>
+        </div>
       </div>
     </div>
+    
   </body>
 </html>
